@@ -16,3 +16,4 @@ Performs:
  - Removing arrows on link files.
  - Adding "open in console" link in right-click menu.
  - Setting EN as default language on "Welcome" screen. **WARNING:** It'll make the secondary language - RU.
+ - Disable ELU and "risk application" window
