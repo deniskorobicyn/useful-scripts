@@ -8,10 +8,11 @@ Windows
 
 Stores my keyboard keys short-cuts.
 
-***ini_reg_modification.reg***
+***init_reg_modification.reg***
 
 Run it once after windows installation.
 
 Performs:
- - removes arrows on link files.
- - adding "open in console" link in right-click menu.
+ - Removing arrows on link files.
+ - Adding "open in console" link in right-click menu.
+ - Setting EN as default language on "Welcome" screen. **WARNING:** It'll make the secondary language - RU.

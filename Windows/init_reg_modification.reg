@@ -8,3 +8,6 @@ Windows Registry Editor Version 5.00
 "Extended"=-
 [HKEY_CLASSES_ROOT\Directory\Background\shell\cmd]
 "Extended"=-
+[HKEY_USERS\.DEFAULT\Keyboard Layout\Preload]
+"1"="419"
+"2"="409"
