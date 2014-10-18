@@ -22,3 +22,13 @@ Performs:
  ***disable_hiberfil.bat***
  
 Delete the hiberfill.sys.
+
+KUbuntu
+=======
+
+Setup-Scripts
+=============
+
+***postgres.sh***
+
+Instalation postgres and pgadmin
