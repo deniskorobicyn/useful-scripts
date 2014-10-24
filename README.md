@@ -32,3 +32,11 @@ Setup-Scripts
 ***postgres.sh***
 
 Instalation postgres and pgadmin
+
+***elasticsearch.sh***
+
+Instalation of elasticsearch engine
+
+***cuda.sh***
+
+Instalation of cuda SDK
