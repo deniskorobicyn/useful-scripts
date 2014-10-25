@@ -40,3 +40,7 @@ Instalation of elasticsearch engine
 ***cuda.sh***
 
 Instalation of cuda SDK
+
+***player.sh***
+
+Instalation of SMPlayer
