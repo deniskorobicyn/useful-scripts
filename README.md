@@ -48,3 +48,7 @@ Instalation of SMPlayer
 ##sublime.sh
 
 Instalation of sublime as default text redactor
+
+##kde-ssh.sh
+
+Instalation of ksshaskpass
