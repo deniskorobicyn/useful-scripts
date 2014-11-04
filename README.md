@@ -21,7 +21,7 @@ Performs:
  
  ##disable_hiberfil.bat
  
-Delete the hiberfill.sys.
+Delete of hiberfill.sys.
 
 KUbuntu
 =======
@@ -39,11 +39,11 @@ Instalation of elasticsearch engine
 
 ##cuda.sh
 
-Instalation of cuda SDK
+Instalation of CUDA SDK
 
 ##player.sh
 
-Instalation of SMPlayer
+Instalation of SMPlayer, and test version, for better video perfomance
 
 ##sublime.sh
 
