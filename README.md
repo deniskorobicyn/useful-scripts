@@ -43,7 +43,7 @@ Instalation of CUDA SDK
 
 ##player.sh
 
-Instalation of SMPlayer, and test version, for better video perfomance
+Instalation of SMPlayer, and test version, for better video performance
 
 ##sublime.sh
 
