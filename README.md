@@ -46,7 +46,7 @@ Instalation of CUDA SDK
 Instalation of SMPlayer, and test version, for better video performance
 
 ##sublime.sh
-lp
+
 Instalation of sublime as default text redactor
 
 ##kde-ssh.sh
