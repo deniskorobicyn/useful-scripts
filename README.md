@@ -53,5 +53,6 @@ Instalation of sublime as default text redactor
 
 Instalation of ksshaskpass
 
-TODO
+##TODO
+
 fix windows scripts
