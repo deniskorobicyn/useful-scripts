@@ -55,4 +55,7 @@ Instalation of ksshaskpass
 
 ##TODO
 
-fix windows scripts
+Fix windows scripts
+Add a script for aptana studio instalation
+Add script for eclipse instalation
+
