@@ -4,10 +4,6 @@ Useful scripts
 Windows
 =======
 
-##AutoHotkey.ahk
-
-Stores my keyboard keys short-cuts.
-
 ##init_reg_modification.reg
 
 Run it once after windows installation.
