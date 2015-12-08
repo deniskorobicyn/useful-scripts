@@ -49,6 +49,9 @@ Instalation of sublime as default text redactor
 
 Instalation of ksshaskpass
 
+##vim.sh
+Creates symlink for my .vimrc in $HOME folder
+
 ##TODO
 
 Fix windows scripts
