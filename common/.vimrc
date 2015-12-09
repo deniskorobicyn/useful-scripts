@@ -134,8 +134,6 @@ autocmd vimenter * NERDTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 autocmd VimEnter * wincmd p
 syntax enable
-set background=dark
-colorscheme solarized
 
 set backupdir=~/.vimtemp,.
 set dir=~/.vimtemp//,.
