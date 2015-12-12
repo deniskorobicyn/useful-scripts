@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+import os,sys
+result = os.system("git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim")
+if result != 0:
+    print("Cant clone repo")
+    exit(1)
+filepath = os.path.dirname(os.path.realpath(__file__))
+os.system("ln -sf " + filepath + "/../../common/.vimrc ~/.vimrc")
+
