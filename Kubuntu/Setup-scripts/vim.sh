@@ -2,7 +2,7 @@
 
 #set -e
 
-sudo apt-get install ctags vim
+sudo apt-get install -y ctags vim
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 last_dir=`pwd`
