@@ -50,6 +50,7 @@ call vundle#end()            " required
 
 autocmd vimenter * NERDTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+let g:NERDTreeWinSize=20
 autocmd VimEnter * wincmd p
 map <c-f> mzgg=G`z
 
